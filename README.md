@@ -27,10 +27,16 @@
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [SQLite](https://www.sqlite.org/index.html)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
+-  **[Typescript](https://www.typescriptlang.org/)**
+-  **[Node.js](https://nodejs.org/)**
+-  **[Express](https://expressjs.com/)**
+-  **[TypeORM](https://typeorm.io/)**
+-  **[SQLite](https://www.sqlite.org/)**
+-  **[ReactJS](https://reactjs.org/)**
+-  **[React Native](http://facebook.github.io/react-native/)**
+-  **[Expo](https://expo.io/)**
+-  **[Axios](https://github.com/axios/axios)**
+
 
 ## :computer: Projeto
 
