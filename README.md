@@ -23,7 +23,7 @@
   <img alt="Happy" src="https://user-images.githubusercontent.com/49373874/96204325-63187880-0f3a-11eb-9b22-6200d7137445.png">
 </p>
 
-## 🚀 Tecnologias
+## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 💻 Projeto
+## :computer: Projeto
 
 O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
 
@@ -40,7 +40,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 
 Projeto da [Next Level Week 3.0](https://nextlevelweek.com/).
 
-## 🔖 Layout
+## :bookmark: Layout
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
@@ -108,7 +108,7 @@ Os seguintes softwares devem estar instalados:
 <br>
 
 
-## 📝 Licença
+## :memo: Licença
 
 Esse projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
